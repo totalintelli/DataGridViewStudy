@@ -1,0 +1,9 @@
+D:\Projects\DataGridViewStudy\DataGridViewStudy\bin\Debug\DataGridViewStudy.exe.config
+D:\Projects\DataGridViewStudy\DataGridViewStudy\bin\Debug\DataGridViewStudy.exe
+D:\Projects\DataGridViewStudy\DataGridViewStudy\bin\Debug\DataGridViewStudy.pdb
+D:\Projects\DataGridViewStudy\DataGridViewStudy\obj\Debug\DataGridViewStudy.csprojResolveAssemblyReference.cache
+D:\Projects\DataGridViewStudy\DataGridViewStudy\obj\Debug\DataGridViewStudy.Form1.resources
+D:\Projects\DataGridViewStudy\DataGridViewStudy\obj\Debug\DataGridViewStudy.Properties.Resources.resources
+D:\Projects\DataGridViewStudy\DataGridViewStudy\obj\Debug\DataGridViewStudy.csproj.GenerateResource.Cache
+D:\Projects\DataGridViewStudy\DataGridViewStudy\obj\Debug\DataGridViewStudy.exe
+D:\Projects\DataGridViewStudy\DataGridViewStudy\obj\Debug\DataGridViewStudy.pdb
